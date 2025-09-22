@@ -1,13 +1,13 @@
-# Custom Desktop PC Build – Group X
+# Custom Desktop PC Build – Group 3
 
 **Course**: CSARCH2  
-**Section**: ___  
+**Section**: S21  
 **Group Members**:  
-- Name 1  
-- Name 2  
-- Name 3  
-- Name 4  
-- Name 5  
+- AGUARIN, Trish Ann Danielle C.  
+- CUMTI, Jeff Rigel P.   
+- MARCELO, Chrystel Anne L.   
+- PINEDA, Juan Roberto G.  
+- VALDES, Justine Jaye L.  
 
 ---
 
@@ -90,4 +90,5 @@ Reflections on:
 - Vendor links (PCX, VillMan, etc.)  
 - PCPartPicker build link  
 - Any technical documentation consulted  
+
 
