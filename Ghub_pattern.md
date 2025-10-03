@@ -98,7 +98,7 @@ Reflections on:
 
 ---
 ## 7. Video pitch
-- Your video link here  
+- https://youtu.be/SvPF0wWWBx0  
 
 ## 8. References
 - Vendor links (PCX, VillMan, etc.)  
