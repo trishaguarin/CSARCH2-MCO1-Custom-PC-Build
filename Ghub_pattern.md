@@ -19,22 +19,22 @@ Mention: target use case (e.g., general-purpose desktop, gaming, programming, da
 
 ## 2. Draft Build (PCPartPicker)
 This build uses **PCPartPicker System Builder** for compatibility check. 
-PCPartPicker Permalink: _________
+PCPartPicker Permalink: [_________](https://pcpartpicker.com/list/9WCJcx)
 
 ### Summary Table 
-| Component       | Model | Price (USD/Php) | Notes |
-|-----------------|-------|-----------------|-------|
-| CPU             | ...   | ...             | ...   |
-| CPU Cooler      | ...   | ...             | ...   |
-| Motherboard     | ...   | ...             | ...   |
-| RAM             | ...   | ...             | ...   |
-| Storage 1       | ...   | ...             | ...   |
-| Storage 2       | ...   | ...             | ...   |
-| Graphics Card   | ...   | ...             | ...   |
-| Power Supply    | ...   | ...             | ...   |
-| Case            | ...   | ...             | ...   |
-| Case Fans       | ...   | ...             | ...   |
-| **Total**       |       | **XXX USD/Php**     |       |
+| Component       |                                   Model                                   |  Price   |                  Notes                 |
+|-----------------|---------------------------------------------------------------------------|----------|----------------------------------------|
+| CPU             | Intel Core i5-13400 2.5 GHz 10-Core Processor                             | $212.67  | ...                                    |
+| CPU Cooler      | Thermalright Aqua Elite V3 66.17 CFM Liquid CPU Cooler                    | $44.90   | ...                                    |
+| Motherboard     | Asus PRIME B760M-A AX Micro ATX LGA1700 Motherboard                       | $134.99  | ...                                    |
+| RAM             | Kingston FURY Beast 16 GB (2 x 8 GB) DDR5-5200 CL40 Memory                | $70.97   | ...                                    |
+| Storage 1       | Kingston NV3 2 TB M.2-2280 PCIe 4.0 X4 NVME Solid State Drive             | $122.95  | ...                                    |
+| Storage 2       | *no additional storage was bought for this build*                         | $0.00    | ...                                    |
+| Graphics Card   | MSI GeForce RTX 3060 Ventus 2X 12G GeForce RTX 3060 12GB 12 GB Video Card | $279.99  | ...                                    |
+| Power Supply    | Corsair RM850e (2025) 850 W Fully Modular ATX Power Supply                | $114.95  | ...                                    |
+| Case            | Montech XR ATX Mid Tower Case                                             | $73.73   | Case has intergrated case fans already |
+| Case Fans       | *no case fans were bought for this build (see Case notes)*                | $0.00    |                                        |
+| **Total**       |                                                                           | $1055.15 | Approximately Php 61,096.88            |
 
 ---
 
@@ -90,5 +90,6 @@ Reflections on:
 - Vendor links (PCX, VillMan, etc.)  
 - PCPartPicker build link  
 - Any technical documentation consulted  
+
 
 
