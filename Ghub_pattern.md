@@ -21,7 +21,7 @@
 
 ## 2. Draft Build (PCPartPicker)
 This build uses **PCPartPicker System Builder** for compatibility check. 
-PCPartPicker Permalink: [https://pcpartpicker.com/list/9WCJcx ](https://pcpartpicker.com/list/Dg8dZc)
+PCPartPicker Permalink: [https://pcpartpicker.com/list/Dg8dZc](https://pcpartpicker.com/list/Dg8dZc)
 
 ### Summary Table 
 | Component       |                                   Model                                   |  Price   |                  Notes                 |
@@ -115,6 +115,7 @@ Reflections on:
 
 - PCPartPicker build link  
   - https://pcpartpicker.com/list/Dg8dZc
+
 
 
 
