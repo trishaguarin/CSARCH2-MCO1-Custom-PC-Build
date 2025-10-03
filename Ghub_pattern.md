@@ -36,7 +36,7 @@ PCPartPicker Permalink: [https://pcpartpicker.com/list/Dg8dZc](https://pcpartpic
 | Power Supply    | Corsair RM850e (2025) 850 W Fully Modular ATX Power Supply                | $114.95  | ...                                    |
 | Case            | Montech XR ATX Mid Tower Case                                             | $73.73   | Case has integrated case fans already  |
 | Case Fans       | *no case fans were bought for this build (see Case notes)*                | $0.00    | ...                                    |
-| **Total**       |                                                                           | $1065.93 | Approximately Php 61740.80           |
+| **Total**       |                                                                           | $1065.93 | Approximately ₱ 61,740.80           |
 
 ---
 
@@ -62,8 +62,6 @@ Google spreadsheet link: [Group 3 S21 PC Build](https://docs.google.com/spreadsh
 ---
 
 ## 4. Compatibility Justification
-For each part, explain compatibility and choices.  
-Example:  
 - **CPU + Motherboard**: Intel i5-13400 (LGA1700) works with Asus Prime B760M board (LGA1700 socket). Additionally, not all B760 motherboards support DDR5 RAM, but this specifically has support for both DDR4 and DDR5.   
 - **CPU Cooler**:  
 - **Memory**: 
@@ -115,6 +113,7 @@ Reflections on:
 
 - PCPartPicker build link  
   - https://pcpartpicker.com/list/Dg8dZc
+
 
 
 
