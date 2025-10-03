@@ -14,7 +14,7 @@
 ## 1. Introduction
 > Our project involved designing a custom desktop PC build within a budget of P60,000 with an allowance of +/- 5%. The main goal was to create a build that is affordable yet balanced in terms of performance, while ensuring that the selected components are compatible with one another.
 
-> We specifically targeted a build suitable for 1080p gaming, everyday productivity, and general-purpose use such as programming, editing, schoolwork, and other similar tasks. With that in mind, we focused our budget on the CPU and GPU as these components directly impact the PC’s gaming performance and multitasking capabilities. The final PC result is a build that provides strong performance for its price point, while also leaving room for future potential upgrades.
+> We specifically targeted a build suitable for 1080p gaming, everyday productivity, and general-purpose use such as programming, editing, school-work, and other similar tasks. With that in mind, we focused our budget on the CPU and GPU as these components directly impact the PC’s gaming performance and multitasking capabilities. The final PC result is a build that provides strong performance for its price point, while also leaving room for future potential upgrades.
 
 
 ---
@@ -62,13 +62,13 @@ Google spreadsheet link: [Group 3 S21 PC Build](https://docs.google.com/spreadsh
 ---
 
 ## 4. Compatibility Justification
-- **CPU + Motherboard**: Intel i5-13400 (LGA1700) works with Asus Prime B760M board (LGA1700 socket). Additionally, not all B760 motherboards support DDR5 RAM, but this specifically has support for both DDR4 and DDR5.   
-- **CPU Cooler**:  
-- **Memory**: 
-- **Storage**: 
-- **Video Card**: 
-- **Power Supply**: 
-- **Case**: 
+- **CPU + Motherboard**: Intel i5-13400 (LGA1700) works with Asus Prime B760M board (LGA1700 socket). Additionally, not all B760 motherboards support DDR5 RAM, but this specifically has support for both DDR4 and DDR5. 
+- **CPU Cooler**: With the LGA1700 sockets from the processor, the Thermalright Aqua Elite 240 liquid cooler would be compatible with the Intel i5-13400. Additionally, the 240mm radiator gives us more than enough cooling power for the high temperatures the PC would go through during high performance 1080p gaming.
+- **Memory**: The Kingston FURY Beast 8GB 5600MT/s DDR5 memory is fully compatible with the Asus Prime B760M motherboard, since as mentioned, it supports both DDR4 and DDR5 RAM. With 2 8GB sticks, instead of just one singular 16 GB stick, we would be able to take advantage of the dual channel memory as it allows simultaneous data transfer for both sticks. 
+- **Storage**: Since the Kingston NV3 M.2 2280 NVMe SSD (2TB) is a M.2 NVMe storage device, it would be compatible with our Asus Prime B760M board that supports slots specifically for these devices. We also chose to go with 2 TB of data since our PC had to work with heavy AAA games, which deal with high resolution gameplay and storage-heavy game files. 
+- **Video Card**: With the PCIe 4.0 x16 slot found in our motherboard, the MSI GeForce RTX 3060 would be compatible with the whole PC given that it is the requirement for our given video card to run at its fullest. Along with this, considering our given specifications, this video card, though it may not be the highest in performance, still gives the unit great performance for the price. 
+- **Power Supply**: We chose the Corsair RM850X 850W fully modular PSU mainly for its capability of producing 850W of power. We first looked at the estimated wattage (~415W) from PCPIcker and chose to have a power supply that has more than enough power to support the heavy components our PC build comes with. 
+- **Case**: Even though the Montech XR Mid Tower ATX PC Case supports ATX motherboards, we decided to go with our Asus Prime B760M board as our motherboard despite it being a micro ATX board due to our budget constraints. Despite its compact size, we would still be given all the essential features of a mother board with an entry-level  PC build. Along with this,  our case not only fits the motherboard well, it also offers more space for other PC components and cable management while also improving the overall airflow of the PC.  
 
 ---
 
