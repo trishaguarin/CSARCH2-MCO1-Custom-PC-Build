@@ -12,7 +12,7 @@
 ---
 
 ## 1. Introduction
-> Our project involved designing a custom desktop PC build within a budget of P60,00, with an allowance of +/- 5%. The main goal was to create a build that is affordable yet balanced in terms of performance, while ensuring that the selected components are compatible with one another.
+> Our project involved designing a custom desktop PC build within a budget of P60,000 with an allowance of +/- 5%. The main goal was to create a build that is affordable yet balanced in terms of performance, while ensuring that the selected components are compatible with one another.
 
 > We specifically targeted a build suitable for 1080p gaming, everyday productivity, and general-purpose use such as programming, editing, schoolwork, and other similar tasks. With that in mind, we focused our budget on the CPU and GPU as these components directly impact the PC’s gaming performance and multitasking capabilities. The final PC result is a build that provides strong performance for its price point, while also leaving room for future potential upgrades.
 
@@ -29,7 +29,7 @@ PCPartPicker Permalink: [https://pcpartpicker.com/list/9WCJcx ](https://pcpartpi
 | CPU             | Intel Core i5-13400 2.5 GHz 10-Core Processor                             | $212.67  | ...                                    |
 | CPU Cooler      | Thermalright Aqua Elite V3 66.17 CFM Liquid CPU Cooler                    | $44.90   | ...                                    |
 | Motherboard     | Asus PRIME B760M-A AX Micro ATX LGA1700 Motherboard                       | $134.99  | ...                                    |
-| RAM             | Kingston FURY Beast 8 GB (1 x 8 GB) DDR5-5600 CL40 Memory                | $75.28 ($37.64 each)   | 2 pcs were bought to achieve 16 GB minimum                                    |
+| RAM             | Kingston FURY Beast 8 GB (1 x 8 GB) DDR5-5600 CL40 Memory                | $75.28 ($37.64 each)   | 2 pcs were bought to achieve 16 GB minimum |
 | Storage 1       | Kingston NV3 2 TB M.2-2280 PCIe 4.0 X4 NVME Solid State Drive             | $122.95  | ...                                    |
 | Storage 2       | *no additional storage was bought for this build*                         | $0.00    | ...                                    |
 | Graphics Card   | MSI GeForce RTX 3060 Ventus 2X 12G GeForce RTX 3060 12GB 12 GB Video Card | $279.99  | ...                                    |
@@ -66,7 +66,17 @@ For each part, explain compatibility and choices.
 Example:  
 - **CPU + Motherboard**: Intel i5-13400F (LGA1700) works with ASUS B760M board (LGA1700 socket, BIOS compatible).  
 - **RAM**: DDR5 RAM supported by motherboard slots (up to 128GB).  
-- **GPU**: NVIDIA RTX 3060 fits case, PSU wattage sufficient.  
+- **GPU**: NVIDIA RTX 3060 fits case, PSU wattage sufficient.
+
+- CPU: 
+CPU Cooler: 
+Motherboard: It uses a B760 chipset and has an LGA 1700 socket, which supports 13th gen Intel CPUs. Not all B760 motherboards support DDR5 RAM, but this specifically has support for both DDR4 and DDR5. 
+Memory:
+Storage:
+Video Card:
+Power Supply:
+Case:
+
 
 ---
 
@@ -111,6 +121,7 @@ Reflections on:
 
 - PCPartPicker build link  
   - https://pcpartpicker.com/list/Dg8dZc
+
 
 
 
