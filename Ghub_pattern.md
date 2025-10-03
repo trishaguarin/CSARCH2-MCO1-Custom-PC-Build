@@ -19,7 +19,7 @@ Mention: target use case (e.g., general-purpose desktop, gaming, programming, da
 
 ## 2. Draft Build (PCPartPicker)
 This build uses **PCPartPicker System Builder** for compatibility check. 
-PCPartPicker Permalink: https://pcpartpicker.com/list/9WCJcx [_________](https://pcpartpicker.com/list/9WCJcx)
+PCPartPicker Permalink: https://pcpartpicker.com/list/9WCJcx 
 
 ### Summary Table 
 | Component       |                                   Model                                   |  Price   |                  Notes                 |
@@ -45,7 +45,7 @@ Google spreadsheet link: _________
 ### Local Build Table
 | Component       | Model | Vendor & Link      | Price (Php) | Compatibility Notes                  |
 |-----------------|-------|--------------------|-------------|--------------------------------------|
-| CPU             | ...   | [PC Express](link) | ...         | Socket LGA1700 compatible with B760M |
+| CPU             | ...   | [PC Express]((https://pcx.com.ph/products/intel-core-i5-13400-processor-20m-cache-up-to-4-60-ghz?_pos=14&_sid=55f0b92b9&_ss=r&fbclid=IwY2xjawNMbvdleHRuA2FlbQIxMABicmlkETFueFJGTlFldU12VjNLV0lTAR6hpvha8xLI5cCI7_tWaIoeO5DcHXVvNdRxzqDSXU3a5GZEbI5MjZVTSxuxzw_aem_D2-1M9SQ62PSQ8ZsUXOgUA)) | ...         | Socket LGA1700 compatible with B760M |
 | CPU Cooler      | ...   | [VillMan](link)    | ...         | Fits case clearance                  |
 | Motherboard     | ...   | [PC Express](link) | ...         | Supports DDR5 RAM                    |
 | RAM             | ...   | [PC Express](link) | ...         | DDR5-5200 CL40, 2x8GB                |
@@ -90,6 +90,7 @@ Reflections on:
 - Vendor links (PCX, VillMan, etc.)  
 - PCPartPicker build link  
 - Any technical documentation consulted  
+
 
 
 
