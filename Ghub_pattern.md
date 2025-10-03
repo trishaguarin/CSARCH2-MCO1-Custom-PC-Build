@@ -26,7 +26,7 @@ PCPartPicker Permalink: [https://pcpartpicker.com/list/Dg8dZc](https://pcpartpic
 ### Summary Table 
 | Component       |                                   Model                                   |  Price   |                  Notes                 |
 |-----------------|---------------------------------------------------------------------------|----------|----------------------------------------|
-| CPU             | Intel Core i5-13400 2.5 GHz 10-Core Processor                             | $212.67  | ...                                    |
+| CPU             | Intel Core i5-13400 2.5 GHz 10-Core Processor                             | $219.14  | ...                                    |
 | CPU Cooler      | Thermalright Aqua Elite V3 66.17 CFM Liquid CPU Cooler                    | $44.90   | ...                                    |
 | Motherboard     | Asus PRIME B760M-A AX Micro ATX LGA1700 Motherboard                       | $134.99  | ...                                    |
 | RAM             | Kingston FURY Beast 8 GB (1 x 8 GB) DDR5-5600 CL40 Memory                | $75.28 ($37.64 each) | 2 pcs were bought to achieve 16 GB minimum |
@@ -36,7 +36,7 @@ PCPartPicker Permalink: [https://pcpartpicker.com/list/Dg8dZc](https://pcpartpic
 | Power Supply    | Corsair RM850e (2025) 850 W Fully Modular ATX Power Supply                | $114.95  | ...                                    |
 | Case            | Montech XR ATX Mid Tower Case                                             | $73.73   | Case has integrated case fans already  |
 | Case Fans       | *no case fans were bought for this build (see Case notes)*                | $0.00    | ...                                    |
-| **Total**       |                                                                           | $1059.46 | Approximately Php 61,401.00            |
+| **Total**       |                                                                           | $1065.93 | Approximately Php 61740.80           |
 
 ---
 
@@ -115,6 +115,7 @@ Reflections on:
 
 - PCPartPicker build link  
   - https://pcpartpicker.com/list/Dg8dZc
+
 
 
 
